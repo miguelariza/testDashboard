@@ -1,0 +1,72 @@
+body {
+    background-color: #f5f3f5;
+}
+
+h4 {
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 1.5em;
+    color: #38405f;
+}
+
+h5, label_title {
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-size: 0.9em;
+    color: #59546c;
+}
+
+.col_title {
+    font-family: "Open Sans";
+    font-weight: 700;
+    font-size: 0.9em;
+    color: #59546c;
+}
+
+.col_text {
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-size: 0.9em;
+    color: #3C686B;
+}
+
+.col_id {
+    font-family: "Open Sans";
+    font-size: 0.9em;
+    color: #3C686B;
+}
+
+.form-label {
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-size: 0.9em;
+    color: #59546c;    
+}
+
+.logo_menu {
+    height: 60px;
+}
+
+.mapa {
+    padding: 0;
+    margin: 0;
+}
+
+.spacer-titles {
+    padding-top: 1em;
+}
+
+.icon_link {
+    color: #ff2e00;
+}
+
+.modal-title {
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 0.9em;
+    color: #59546c;
+}
+
+.table-bgd {
+    background-color: #f5f3f5;
+}
